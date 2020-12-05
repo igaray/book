@@ -1,6 +1,6 @@
-# The Rust Programming Language
+# Rust Programazio-hizkuntza
 
-*by Steve Klabnik and Carol Nichols, with contributions from the Rust Community*
+*Steve Klabnikek eta Carol Nicholsek, Rust-komunitatearen kontribuzioekin*
 
 This version of the text assumes you’re using Rust 1.41.0 or later with
 `edition="2018"` in *Cargo.toml* of all projects to use Rust 2018 Edition
